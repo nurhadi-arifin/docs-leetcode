@@ -1,0 +1,24 @@
+Two Sums
+- key point: map / hash
+- duration : 10-15 minutes
+
+Valid Parentheses
+- key point: stack (LIFO), map / hash
+- duration : 15-20 minutes
+
+Longest Substring
+- key point: map / hash geser geser
+- duration : 40 - 45 minutes
+
+Word Frequency
+- key point: pipe , sort, uniq, awk
+- duration : 5 - 10minutes
+
+----
+Employee Earning
+- key point: sql relation (Aliasing Table)
+- duration : 5 - 7 minutes
+
+Average Selling Price
+- key point: sql relation (left join), coalesce
+- duration : 25 - 30 minutes
